@@ -1,25 +1,23 @@
 # Website Link
-You can see the versions [here](https://gamerrodri.github.io/SocialCraft-Official-Versions-List/).
-__________________________________________________________
+You can look at the versions list [here](https://gamerrodri.github.io/SocialCraft-Official-Versions-List/).
+___
+# DISCLAIMER:
 
-DISCLAIMER:
+### If you use the official Minecraft launcher, this may not work as there are configurations that might mess with your gameplay afterwards, so unless you know what you are doing, you may proceed.
+___
 
-If you use the official Minecraft launcher, this may not work as there are configurations that might mess with your gameplay afterwards, so unless you know what you are doing, you may procced.
-__________________________________________________________
-
-BEFORE CONTINUING:
+## BEFORE CONTINUING:
 
 Download the latest version of the modpack here: https://drive.google.com/drive/folders/1YLaW6D249F3IlktMHNTseTnkT4R9RcrU, and extract it's contents, preferrably using an extracting tool such as WinRAR.
 
-FOR ATLAUNCHER:
+## FOR ATLAUNCHER:
 
 If you dont have an instance already, make a folder in your instances tab. (Calling it SocialCraft is recommended if you want to return to this proccess later on.)
 
 Now, add the elements hosted in one of these folder and have fun!
 
-FOR OFFICIAL MINECRAFT LAUNCHER:
-
-WINDOWS:
+## FOR OFFICIAL MINECRAFT LAUNCHER:
+### WINDOWS:
 
 If you don't have a 1.16.5 installation already, go to the Installations tab and click "New Installation". Set the version to 1.16.5, optionally set the name to "1.16.5" as well, then click Create. 
 Now, find the 1.16.5 installation, and run it.
