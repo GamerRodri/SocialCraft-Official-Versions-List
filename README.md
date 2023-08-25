@@ -8,7 +8,7 @@ ___
 
 ## BEFORE CONTINUING:
 
-Download the latest version of the modpack here: https://drive.google.com/drive/folders/1YLaW6D249F3IlktMHNTseTnkT4R9RcrU, and extract it's contents, preferrably using an extracting tool such as WinRAR.
+Download the latest version of the modpack [here](https://drive.google.com/drive/folders/1YLaW6D249F3IlktMHNTseTnkT4R9RcrU), and extract it's contents, preferrably using an extracting tool such as WinRAR.
 
 ## FOR ATLAUNCHER:
 
@@ -24,7 +24,7 @@ Now, find the 1.16.5 installation, and run it.
 
 Once it is finished loading and shows the main menu, close Minecraft,
 
-Now, download the latest 1.16.5 forge version here: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html.
+Now, download the latest 1.16.5 forge version [here](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html).
 
 Run the downloaded file as you would with an .exe file.
 Now, set the installation type to "Install Client", and click "OK".
