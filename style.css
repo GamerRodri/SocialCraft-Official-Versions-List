@@ -1,0 +1,85 @@
+body {
+    font-family: 'Bahnschrift';
+    background-color: #5c5c68;
+    text-align: center;
+    margin: 0;
+}
+
+div.version {
+    background-color: #bbbad4;
+    border-radius: 20px;
+    margin: 30px 10%;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+@font-face {
+    font-family: 'Bahnschrift';
+    src: url(fonts/BAHNSCHRIFT.TTF);
+}
+
+button#download {
+    background-color: #4a86ff;
+    display: inline-flex;
+    justify-content: center;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    margin: 4px 0px 16px 0px;
+    width: 80%;
+    font-family: 'Bahnschrift';
+    font-weight: 400;
+    font-size: 40px;
+    padding: 10px 20px;
+    transition: 0.4s;
+}
+
+button#download:hover {
+    background-color: #0300a3;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+
+img.title {
+    width: 60%;
+    position: absolute;
+    top: 49%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img.banner {
+    object-fit: cover;
+    object-position: 0 100%;
+    width: 100%;
+    height: 300px;
+}
+
+img.v100 {
+    object-fit: cover;
+    border-radius: 20px 20px 0px 0px;
+    width: 100%;
+    height: 100px;
+}
+
+img.download {
+    filter: invert(100%);
+    margin: 0px 10px;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    font-weight: bolder;
+    font-size: 70px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
