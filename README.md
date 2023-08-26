@@ -4,6 +4,9 @@ ___
 # DISCLAIMER:
 
 ### If you use the official Minecraft launcher, this may not work as there are configurations that might mess with your gameplay afterwards, so unless you know what you are doing, you may proceed.
+
+## Also to note:
+### The modpack doesn't come with the server so you'll have to type in the server yourself.
 ___
 
 ## BEFORE CONTINUING:
